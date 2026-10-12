@@ -1,4 +1,0 @@
-# Keep local data exports and secrets out of version control
-*.json
-*.bak
-.env
